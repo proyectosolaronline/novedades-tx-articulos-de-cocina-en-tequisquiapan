@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proyectosolaronline.github.io/novedades-tx-articulos-de-cocina-en-tequisquiapan/sitemap.xml
